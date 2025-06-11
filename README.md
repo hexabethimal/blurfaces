@@ -19,7 +19,7 @@ Python is a programming language that helps people write instructions for comput
 2. Install Python. **Important** Check the checkbox for 'Add to Path'. Select Custom Install. Under Advanced options during the install, change the Customize install location to `C:\Python313`.
 
 ## Download and Unzip the file from Releases
-1. Download BlurFaces.zip and unzip it
+1. Download BlurFaces.zip and unzip. Click Releases on the side or go to this url: https://github.com/hexabethimal/blurfaces/releases
 2. First run pythonlibs.bat
   - This will simply install the required Python libraries: pathlib2, matplotlib, opencv-python
   - If you don't want to run the bat file, you can simply install the libraries yourself using pip
