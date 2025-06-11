@@ -8,6 +8,8 @@ This program uses two versions of the Haar cascades classifier for face detectio
 
 This program uses two versions to accomplish a higher rate of face detection, but Haar cascades classifiers are not perfect. It has a greater rate of success finding and blurring faces when a person is not wearing glasses. If a person is wearing glasses, then it works best if the person is facing directly forward. Without glasses, it is pretty good at finding faces even if a person has their head slightly turned.
 
+You can view the Python script file blurall.py and the C# Windows program file Main.cs. These are the main files other than the Python library dependencies that make this all work.
+
 ## Table of Contents
 - [Install Python](https://github.com/hexabethimal/blurfaces/#install-python)
 - [Download and Unzip the file from Releases](https://github.com/hexabethimal/blurfaces/#Download-and-Unzip-the-file-from-Releases)
